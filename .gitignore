@@ -1,0 +1,15 @@
+**/.venv/
+**/.env
+.env
+.venv/
+**/.terraform/
+**/__pycache__
+**/.terraform*
+**/instance/
+**/*.pyc
+**/htmlcov/
+**/dist
+**/build
+**/*.egg-info/
+**/.coverage
+**/.pytest_cache/
